@@ -1,6 +1,5 @@
 {
-    "name": "cherry-pickr",
-    "version": "0.0.1",
+    "name": "RECOJEcerezas",
     "description": "",
     "dependencies": {
         "device": "*"
@@ -19,7 +18,7 @@
         "test.ts"
     ],
     "targetVersions": {
-        "target": "1.11.37",
+        "target": "1.12.21",
         "targetId": "arcade"
     },
     "supportedTargets": [
